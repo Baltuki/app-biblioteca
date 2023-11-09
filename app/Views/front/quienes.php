@@ -13,9 +13,6 @@ Mi visión para esta plataforma es simple pero poderosa: quiero brindarte una ex
 <div class="contenido-quienes">
    <div class="card text-center" style="width: 18rem;">
   <img class="card-img-top" src="./assets/img/anonimo.webp" alt="Card image cap">
-  <div class="card-body">
-    <p class="card-text">FUNDADOR (Yo).</p>
-  </div>
 </div> 
 </div>
 
