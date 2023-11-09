@@ -1,0 +1,83 @@
+/* CSS DE NUESTRO NAVBAR */
+
+#minav{
+    background-color: black;
+}
+
+
+.dropdown-item:hover{
+    background-color: rgb(58, 58, 58);
+}
+
+#principal-icon{
+    width: 30px;
+    margin-right: 10px;
+}
+
+/* CSS PRINCIPAL */
+
+body{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    margin-top: 50px;
+    margin-left: 45px;
+}
+
+#bienvenido{
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.39);
+}
+
+/* FOOTER */
+
+footer{
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+
+/* APARTADO QUIENES SOMOS */
+
+.quienes{
+    padding: 30px;
+    margin-top: 60px;
+}
+
+.contenido-quienes{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+/* ACERCA DE */
+
+.contenedor-global{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 60px;
+    background-color: rgba(8, 8, 8, 0.747)
+}
+
+
+/* LOGIN */
+
+.row{
+    padding: 10px;
+}
+
+/* REGISTRO */
+
+input{
+    margin-top: 7px;
+}
+
+
